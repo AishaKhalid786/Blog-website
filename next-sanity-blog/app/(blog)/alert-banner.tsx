@@ -10,8 +10,8 @@ export default function AlertBanner() {
       </div>
       <nav className="flex space-x-6 text-sm font-medium">
         <Link href="/" className="hover:text-cyan-700">Home</Link>
-        <Link href="/about" className="hover:text-cyan-700">About</Link>
-        <Link href="/contact" className="hover:text-cyan-700">Contact</Link>
+        <Link href="/About" className="hover:text-cyan-700">About</Link>
+        <Link href="/Contact" className="hover:text-cyan-700">Contact</Link>
 
 
 
